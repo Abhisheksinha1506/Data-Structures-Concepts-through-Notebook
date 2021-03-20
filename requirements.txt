@@ -35,7 +35,7 @@ info-gain==1.0.1
 inscriptis==0.0.4.0
 itsdangerous==1.1.0
 jieba3k==0.35.1
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.14.0
 Keras==2.3.1
 Keras-Applications==1.0.8
