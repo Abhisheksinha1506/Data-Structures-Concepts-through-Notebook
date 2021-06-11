@@ -106,7 +106,7 @@ virtualenv==16.7.5
 virtualenv-clone==0.5.3
 w3lib==1.21.0
 wcwidth==0.1.7
-websockets==8.1
+websockets==9.1
 Werkzeug==0.15.5
 wordcloud==1.5.0
 xgboost==0.90
