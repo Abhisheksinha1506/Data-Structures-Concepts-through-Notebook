@@ -66,7 +66,7 @@ pycparser==2.19
 pycryptodome==3.9.0
 pyee==6.0.0
 pyenchant==2.0.0
-PyJWT==1.7.1
+PyJWT==2.4.0
 PyMySQL==0.9.3
 pyparsing==2.4.2
 pyppeteer==0.0.25
