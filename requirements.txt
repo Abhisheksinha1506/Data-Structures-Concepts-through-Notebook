@@ -50,7 +50,7 @@ netdisco==2.6.0
 netifaces==0.10.9
 newspaper3k==0.2.8
 nltk==3.4.5
-numpy==1.17.1
+numpy==1.22.0
 oauthlib==3.1.0
 packaging==19.1
 pandas==0.25.1
